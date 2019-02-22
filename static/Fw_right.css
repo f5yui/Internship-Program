@@ -1,0 +1,38 @@
+.wrapCon {
+	float: right;
+	right: -200px;
+    width: 200px;
+    position: absolute;
+}
+.interCon{
+	width: 200px;
+}
+.interCon li{
+	text-decoration: none;
+    list-style: none;
+	margin-left: 10px;
+}
+.interCon ul{
+	padding-left: 10px;
+	width: 200px;
+}
+.img img {
+	width: 160px;
+	height: 160px;
+	margin: 0 auto;
+}
+.interCon li p{
+	width: 160px;
+	height: 20px;
+	text-align: center;
+	line-height: 20px;
+	background-color: rgba(255,255,255,.8);
+}
+.wrapCon span{
+	color: white;
+	font-family: "微软雅黑";
+	font: 12px;
+	text-align-last: center;
+	margin-left: 5px ;
+}
+

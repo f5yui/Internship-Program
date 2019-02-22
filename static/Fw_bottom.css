@@ -1,0 +1,49 @@
+
+.recommend{
+	width: 790px;
+	margin: auto;
+	overflow:hidden ;
+}
+
+.recommend_tp{
+	width: auto;
+	height: 36px;
+	background-color: #FF0036;
+	/*border-top-left-radius: 5% ;
+	border-top-right-radius:  5%;*/
+	padding-left:30px ;
+	line-height: 200%;
+}
+
+.ra{
+	float: right;
+	margin-right: 15px;
+}
+
+.item{
+	width: 790px;
+	height: 326px;
+	margin: 5px 10px 10px 10px;
+}
+
+.interitem{
+	float: left;
+	width: 200px;
+	height: 326px;
+	margin: 0 25px;
+}
+
+.interitem .one{
+	font-size: 10px;
+}
+
+.interitem .two{
+	color: red;
+}
+.recommend_tp p,.recommend_tp a,.recommend_tp span{
+	font-weight: bold;
+	color: white;
+	line-height: 36px;
+	font-size: 15px;
+	font-family: "微软雅黑";
+}
